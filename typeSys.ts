@@ -15,3 +15,4 @@ let personType : PersonType = {} as any;
 
 personInterface = personType;
 personType = personInterface;
+
