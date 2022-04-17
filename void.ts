@@ -5,4 +5,4 @@ function f4(a:number) {
 }
 
 console.log(f4(5));
-console.log(f4(-5)+5);
+// console.log(f4(-5)+5);
